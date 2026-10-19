@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — Agência Vértice",
+    "description": "Designers e programadores especializados em criação de sites e lojas virtuais em São Paulo. Conheça o time da Agência Vértice."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Profissionais que entregam com qualidade.",
+      "lead": "Designers, programadores e especialistas em marketing trabalhando juntos no seu projeto.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Carlos Mendes", "role": "Atendimento e projetos", "photo": "/images/team-1.jpg" },
+        { "name": "Rafael Souza", "role": "Design e identidade visual", "photo": "/images/team-2.jpg" },
+        { "name": "Lucas Ferreira", "role": "Programação e lojas virtuais", "photo": "/images/team-3.jpg" },
+        { "name": "André Lima", "role": "SEO e tráfego pago", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "10+", "label": "Anos no mercado" },
+        { "value": "350+", "label": "Sites entregues" },
+        { "value": "6", "label": "Especialistas no time" },
+        { "value": "97%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Solicite seu orçamento sem compromisso.",
+      "services": ["Criação de Sites", "Criação de Loja Virtual", "Landing Pages", "Sites Institucionais", "Otimização para Google (SEO)", "Tráfego Pago (Google Ads)", "Manutenção de Sites", "Chatbot e Automação com IA", "Identidade Visual"]
+    }}
+  ]
+}

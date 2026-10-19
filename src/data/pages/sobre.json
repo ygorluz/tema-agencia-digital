@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre a Agência Vértice",
+    "description": "Agência de criação de sites em São Paulo. Conheça a história e os valores da Agência Vértice, que cria sites e lojas virtuais para pequenas e médias empresas."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre a empresa",
+      "title": "Sites que dão resultado para o seu negócio.",
+      "lead": "Criamos sites, lojas virtuais e landing pages para empresas de São Paulo que querem vender mais pela internet.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "Especialistas em sites para empresas",
+      "title": "Sites que dão resultado para o seu negócio.",
+      "lead": "Trabalhamos do projeto à publicação: site no ar, otimizado para o Google e fácil de você mesmo atualizar.",
+      "benefits": [
+        "Equipe de design e programação própria",
+        "Sites, lojas virtuais e landing pages",
+        "Otimização para aparecer no Google",
+        "Orçamento gratuito e sem compromisso"
+      ],
+      "cta": { "label": "Solicitar orçamento", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "10+", "label": "Anos no mercado" },
+        { "value": "350+", "label": "Sites entregues" },
+        { "value": "6", "label": "Especialistas no time" },
+        { "value": "97%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do briefing ao site no ar.",
+      "steps": [
+        { "n": "01", "title": "Orçamento", "text": "Conte o que sua empresa precisa pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Projeto", "text": "Desenhamos as páginas e aprovamos o layout com você." },
+        { "n": "03", "title": "Publicação", "text": "Colocamos o site no ar e ensinamos a atualizar." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "O que nossos clientes dizem.",
+      "rating": { "score": "4,9", "label": "média de satisfação" },
+      "items": [
+        { "quote": "Site novo no ar em três semanas e já começou a chegar contato pelo formulário.", "name": "Roberto L.", "role": "Cliente — Pinheiros" },
+        { "quote": "A loja virtual ficou linda e fácil de mexer. Eu mesma cadastro os produtos.", "name": "Mariana D.", "role": "Cliente — Vila Olímpia" },
+        { "quote": "Entregaram no prazo combinado e o site começou a aparecer no Google.", "name": "Thomas L.", "role": "Cliente — Itaim Bibi" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Solicite seu orçamento sem compromisso.",
+      "services": ["Criação de Sites", "Criação de Loja Virtual", "Landing Pages", "Sites Institucionais", "Otimização para Google (SEO)", "Tráfego Pago (Google Ads)", "Manutenção de Sites", "Chatbot e Automação com IA", "Identidade Visual"]
+    }}
+  ]
+}

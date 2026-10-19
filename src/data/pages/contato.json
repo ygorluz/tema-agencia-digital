@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Contato — Agência Vértice",
+    "description": "Fale com a Agência Vértice em São Paulo: WhatsApp, e-mail e atendimento. Tire dúvidas ou solicite orçamento de criação de sites."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Estamos prontos para atender você.",
+      "lead": "Mande mensagem, ligue ou passe pelo nosso atendimento — orçamento rápido e sem compromisso.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Contato", "href": "/contato" } ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Envie uma mensagem",
+      "title": "Conte o que sua empresa precisa.",
+      "services": ["Criação de Sites", "Criação de Loja Virtual", "Landing Pages", "Sites Institucionais", "Otimização para Google (SEO)", "Tráfego Pago (Google Ads)", "Manutenção de Sites", "Chatbot e Automação com IA", "Identidade Visual"]
+    }}
+  ]
+}

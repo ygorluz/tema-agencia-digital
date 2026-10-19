@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import BlockRenderer from '../blocks/BlockRenderer.astro';
+import LocalBusinessSchema from '../components/local/LocalBusinessSchema.astro';
+import page from '../data/page.json';
+import site from '../data/siteConfig.json';
+import locais from '../data/locais.json';
+import type { Block } from '../blocks/types';
+const blocks = page.blocks as Block[];
+const areaServed = (locais as any[]).map((l) => l.nome);
+const cidade = (site as any).nap?.addressLocality;
+const homeTitle = (site as any).segmento && cidade
+  ? `${site.name} — ${(site as any).segmento} em ${cidade}`
+  : site.name;
+---
+<BaseLayout title={homeTitle} description={site.description}>
+  <LocalBusinessSchema areaServed={areaServed} />
+  <BlockRenderer blocks={blocks} />
+</BaseLayout>

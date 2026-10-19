@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Serviços de criação de sites — Agência Vértice",
+    "description": "Criação de sites, lojas virtuais, landing pages, SEO e tráfego pago em São Paulo. Conheça todos os serviços da Agência Vértice."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos serviços",
+      "title": "Tudo para o seu negócio vender online.",
+      "lead": "Do site institucional à loja virtual, do Google Ads à automação com IA — criamos a presença digital completa da sua empresa.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Serviços", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Solicitar orçamento", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que nos escolher",
+      "title": "Design bonito, site rápido e no Google.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Equipe própria", "text": "Designers e programadores que cuidam do seu projeto." },
+        { "title": "Site sob medida", "text": "Cada página pensada para o seu tipo de negócio." },
+        { "title": "Orçamento sem compromisso", "text": "Você recebe a proposta antes de fechar qualquer coisa." },
+        { "title": "Atendimento rápido", "text": "Retorno ágil para empresas de São Paulo." },
+        { "title": "Clientes satisfeitos", "text": "Centenas de sites entregues na cidade." },
+        { "title": "Otimizado para o Google", "text": "Sites rápidos e prontos para aparecer nas buscas." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Solicite seu orçamento sem compromisso.",
+      "services": ["Criação de Sites", "Criação de Loja Virtual", "Landing Pages", "Sites Institucionais", "Otimização para Google (SEO)", "Tráfego Pago (Google Ads)", "Manutenção de Sites", "Chatbot e Automação com IA", "Identidade Visual"]
+    }}
+  ]
+}

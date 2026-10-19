@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "pinheiros",
+    "nome": "Pinheiros",
+    "prep": "em",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Madalena",
+      "Itaim Bibi",
+      "Faria Lima"
+    ],
+    "referenciaLocal": "Atendemos empresas, comércios e profissionais de Pinheiros e do entorno da Faria Lima, do pequeno negócio de bairro às startups da região, com criação de sites e lojas virtuais sob medida.",
+    "faq": [
+      {
+        "q": "Vocês atendem presencialmente em Pinheiros?",
+        "a": "Sim. Fazemos reuniões presenciais em Pinheiros quando o projeto pede, mas a maior parte do processo é resolvida online, com agilidade, por videochamada e WhatsApp."
+      },
+      {
+        "q": "Fazem site para pequenos comércios e profissionais da região?",
+        "a": "Fazemos. Atendemos desde profissionais autônomos e lojas de bairro até escritórios e clínicas de Pinheiros, com projeto e orçamento adequados ao porte de cada negócio."
+      }
+    ]
+  },
+  {
+    "slug": "vila-olimpia",
+    "nome": "Vila Olímpia",
+    "prep": "na",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Itaim Bibi",
+      "Brooklin",
+      "Moema"
+    ],
+    "referenciaLocal": "Criamos sites, landing pages e lojas virtuais para as empresas da Vila Olímpia, atendendo do escritório enxuto às operações de tecnologia e serviços do polo comercial da região.",
+    "faq": [
+      {
+        "q": "Vocês criam landing pages para campanhas de empresas na Vila Olímpia?",
+        "a": "Sim. Desenvolvemos landing pages de alta conversão integradas ao Google Ads e ao WhatsApp, ideais para as campanhas das empresas da Vila Olímpia."
+      },
+      {
+        "q": "Conseguem entregar um site rápido para uma empresa que está começando?",
+        "a": "Conseguimos. Para quem precisa entrar no ar logo, montamos um site profissional em poucos dias, já otimizado para o Google e pronto para crescer depois."
+      }
+    ]
+  },
+  {
+    "slug": "itaim-bibi",
+    "nome": "Itaim Bibi",
+    "prep": "no",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Olímpia",
+      "Faria Lima",
+      "Jardins"
+    ],
+    "referenciaLocal": "Desenvolvemos sites institucionais e e-commerces para as empresas do Itaim Bibi, com design sob medida e estrutura de SEO pensada para os negócios de serviços e tecnologia da região.",
+    "faq": [
+      {
+        "q": "Fazem site institucional para empresas de serviços no Itaim Bibi?",
+        "a": "Fazemos. Criamos sites institucionais que passam credibilidade, com páginas de serviços bem estruturadas e otimizadas para aparecer no Google."
+      },
+      {
+        "q": "O site fica otimizado para encontrarem minha empresa no Google?",
+        "a": "Fica. Toda página nasce com estrutura de SEO, velocidade alta e integração ao Google Meu Negócio, para a sua empresa do Itaim Bibi ser encontrada por quem procura."
+      }
+    ]
+  },
+  {
+    "slug": "moema",
+    "nome": "Moema",
+    "prep": "em",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Olímpia",
+      "Campo Belo",
+      "Ibirapuera"
+    ],
+    "referenciaLocal": "Atendemos comércios, clínicas e profissionais de Moema com sites e lojas virtuais sob medida, do projeto visual à publicação otimizada para o Google.",
+    "faq": [
+      {
+        "q": "Vocês criam loja virtual para comércios de Moema?",
+        "a": "Criamos. Montamos lojas virtuais completas, com pagamento, frete e integração ao WhatsApp, prontas para os comércios de Moema venderem online."
+      },
+      {
+        "q": "Depois de pronto, consigo editar o site sozinho?",
+        "a": "Consegue. Entregamos um painel simples no qual você atualiza textos, imagens e produtos quando quiser, sem depender de programador."
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "Agência",
+  "colors": {
+    "bg": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "soft": "#EEF0FF",
+    "ink": "#171633",
+    "ink-muted": "#4B4A6A",
+    "primary": "#1E1B4B",
+    "secondary": "#4F46E5",
+    "accent": "#4F46E5",
+    "accent-ink": "#FFFFFF",
+    "accent-strong": "#4338CA",
+    "border": "#E6E6F2"
+  },
+  "fonts": { "display": "'Poppins', sans-serif", "body": "'Poppins', sans-serif" }
+}

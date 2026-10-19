@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Solicite seu orçamento — Agência Vértice",
+    "description": "Solicite orçamento de site, loja virtual, landing page ou qualquer serviço da Agência Vértice. Atendimento para empresas em São Paulo."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Solicite seu orçamento",
+      "title": "Orçamento gratuito em três etapas simples.",
+      "lead": "Informe o serviço e seus dados — a gente entra em contato para entender o projeto.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Orçamento", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do briefing ao site no ar.",
+      "steps": [
+        { "n": "01", "title": "Orçamento", "text": "Conte o que sua empresa precisa pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Projeto", "text": "Desenhamos as páginas e aprovamos o layout com você." },
+        { "n": "03", "title": "Publicação", "text": "Colocamos o site no ar e ensinamos a atualizar." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e receba seu orçamento.",
+      "services": ["Criação de Sites", "Criação de Loja Virtual", "Landing Pages", "Sites Institucionais", "Otimização para Google (SEO)", "Tráfego Pago (Google Ads)", "Manutenção de Sites", "Chatbot e Automação com IA", "Identidade Visual"]
+    }}
+  ]
+}

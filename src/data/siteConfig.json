@@ -1,0 +1,25 @@
+{
+  "name": "Agência Vértice",
+  "segmento": "Agência de Sites",
+  "schemaType": "ProfessionalService",
+  "postUrlPrefix": "",
+  "description": "Agência de criação de sites em São Paulo: sites profissionais, lojas virtuais e landing pages rápidos e otimizados para o Google. Peça seu orçamento.",
+  "ctaLabel": "Solicitar orçamento",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@agenciavertice.com.br",
+  "address": "Av. Brigadeiro Faria Lima — São Paulo, SP",
+  "hours": "Seg a Sex, 9h às 18h",
+  "social": { "instagram": "#", "facebook": "#", "youtube": "#" },
+  "nap": {
+    "streetAddress": "Av. Brigadeiro Faria Lima, 0000 — conj. 00",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "01451-000",
+    "country": "BR",
+    "latitude": -23.5760,
+    "longitude": -46.6890,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=Avenida+Brigadeiro+Faria+Lima+Sao+Paulo+SP&output=embed"
+  }
+}

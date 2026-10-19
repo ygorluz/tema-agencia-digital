@@ -1,0 +1,276 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Agência de criação de sites em São Paulo",
+        "title": "Sites que vendem, no ar em poucos dias.",
+        "lead": "Criação de sites, lojas virtuais e landing pages rápidos, responsivos e otimizados para aparecer no Google. Projeto sob medida para a sua empresa.",
+        "cta": {
+          "label": "Solicitar orçamento",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "120+ projetos entregues"
+        },
+        "doctor": {
+          "name": "Equipe Vértice",
+          "role": "Design e desenvolvimento",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Seg a Sex, 9h às 18h"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+8 anos criando sites em São Paulo",
+        "eyebrow": "Sobre a agência",
+        "title": "Sites bem feitos, do design ao Google.",
+        "lead": "Cuidamos de cada etapa: estratégia, design, desenvolvimento e otimização, para o seu site transformar visitantes em clientes.",
+        "benefits": [
+          "Design sob medida, sem template genérico",
+          "Sites rápidos e perfeitos no celular",
+          "Otimização para o Google (SEO) de série",
+          "Suporte e manutenção contínuos"
+        ],
+        "cta": {
+          "label": "Conheça a agência",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Nossos serviços",
+        "title": "Tudo para a sua empresa vender pela internet.",
+        "items": [
+          {
+            "title": "Criação de Sites",
+            "text": "Sites institucionais e profissionais sob medida."
+          },
+          {
+            "title": "Criação de Loja Virtual",
+            "text": "E-commerce completo, integrado a pagamento e frete."
+          },
+          {
+            "title": "Landing Pages",
+            "text": "Páginas de alta conversão para suas campanhas."
+          },
+          {
+            "title": "Otimização para Google (SEO)",
+            "text": "Seu site encontrado por quem procura no Google."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os serviços",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "8+",
+            "label": "Anos de mercado"
+          },
+          {
+            "value": "120+",
+            "label": "Projetos entregues"
+          },
+          {
+            "value": "<1s",
+            "label": "Tempo de carregamento"
+          },
+          {
+            "value": "98%",
+            "label": "Clientes satisfeitos"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que a Vértice",
+        "title": "Mais que um site bonito: um site que traz clientes.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Design exclusivo",
+            "text": "Nada de template pronto: cada site é desenhado do zero."
+          },
+          {
+            "title": "Otimizado para Google",
+            "text": "Estrutura de SEO em todas as páginas desde o início."
+          },
+          {
+            "title": "Rápido no celular",
+            "text": "Carregamento abaixo de 1 segundo e nota alta no PageSpeed."
+          },
+          {
+            "title": "Painel fácil de usar",
+            "text": "Você mesmo edita textos e imagens quando quiser."
+          },
+          {
+            "title": "Integração com WhatsApp",
+            "text": "Botões e formulários que caem direto no seu WhatsApp."
+          },
+          {
+            "title": "Suporte de verdade",
+            "text": "Time disponível para ajustes e dúvidas após a entrega."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos do briefing à publicação.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Briefing",
+            "text": "Entendemos seu negócio, objetivos e referências."
+          },
+          {
+            "n": "02",
+            "title": "Design e aprovação",
+            "text": "Criamos o layout e ajustamos até você aprovar."
+          },
+          {
+            "n": "03",
+            "title": "Desenvolvimento e publicação",
+            "text": "Programamos, otimizamos e colocamos o site no ar."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Gente que cuida de cada detalhe do seu projeto.",
+        "members": [
+          {
+            "name": "Estratégia",
+            "role": "Briefing e planejamento",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Design",
+            "role": "UI e identidade visual",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Desenvolvimento",
+            "role": "Código e performance",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Atendimento",
+            "role": "Suporte e projetos",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que nossos clientes dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "Refizeram nosso site e em dois meses dobramos os pedidos pelo WhatsApp.",
+            "name": "Carla M.",
+            "role": "Pinheiros"
+          },
+          {
+            "quote": "A loja virtual ficou rápida e fácil de gerenciar. As vendas online deslancharam.",
+            "name": "Rafael T.",
+            "role": "Vila Olímpia"
+          },
+          {
+            "quote": "Passamos a aparecer na primeira página do Google para os nossos serviços.",
+            "name": "Juliana S.",
+            "role": "Itaim Bibi"
+          }
+        ]
+      }
+    },
+    {
+      "type": "antesDepois",
+      "props": {
+        "eyebrow": "Resultados",
+        "title": "Antes e depois dos sites.",
+        "items": [
+          {
+            "label": "Redesign de site institucional",
+            "before": "/images/before-1.jpg",
+            "after": "/images/after-1.jpg"
+          },
+          {
+            "label": "Migração para loja virtual",
+            "before": "/images/before-2.jpg",
+            "after": "/images/after-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Dicas de sites, SEO e presença digital.",
+        "items": [
+          {
+            "title": "Quanto custa criar um site profissional",
+            "excerpt": "O que influencia no preço e o que esperar.",
+            "image": "/images/post-1.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Site ou loja virtual: qual o ideal para o seu negócio",
+            "excerpt": "Como escolher entre institucional e e-commerce.",
+            "image": "/images/post-2.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Por que o seu site não aparece no Google",
+            "excerpt": "Erros comuns de SEO e como corrigir.",
+            "image": "/images/post-3.jpg",
+            "href": "#"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Peça um orçamento sem compromisso.",
+        "services": [
+          "Criação de Sites",
+          "Criação de Loja Virtual",
+          "Landing Pages",
+          "Otimização para Google (SEO)",
+          "Tráfego Pago (Google Ads)"
+        ]
+      }
+    }
+  ]
+}
